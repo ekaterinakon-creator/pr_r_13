@@ -1,0 +1,7 @@
+D:\simss\projectssss\Pr.r.13\bin\Debug\Pr.r.13.exe.config
+D:\simss\projectssss\Pr.r.13\bin\Debug\Pr.r.13.exe
+D:\simss\projectssss\Pr.r.13\bin\Debug\Pr.r.13.pdb
+D:\simss\projectssss\Pr.r.13\obj\Debug\Pr.r.13.csproj.AssemblyReference.cache
+D:\simss\projectssss\Pr.r.13\obj\Debug\Pr.r.13.csproj.CoreCompileInputs.cache
+D:\simss\projectssss\Pr.r.13\obj\Debug\Pr.r.13.exe
+D:\simss\projectssss\Pr.r.13\obj\Debug\Pr.r.13.pdb
